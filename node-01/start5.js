@@ -20,7 +20,8 @@ console.log("-------------------------");
 const studentFunc = () => {
   return {
     user_name: "이몽룡",
-    주소: "남원시",
+    주소: 
+    "남원시",
     나이: 20,
   };
 };
